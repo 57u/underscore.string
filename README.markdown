@@ -190,7 +190,7 @@ _('&lt;div&gt;Blah blah blah&lt;/div&gt;').unescapeHTML();
 => '<div>Blah blah blah</div>'
 ```
 
-**insert** _.insert(string, index, substing)
+**insert** _.insert(string, index, substring)
 
 ```javascript
 _('Hello ').insert(6, 'world')
